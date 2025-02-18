@@ -17,3 +17,9 @@ This project implements a speed detection system using OpenCV. It calculates the
 2. **Contour Detection:** Identifies and tracks objects in motion.
 3. **Speed Calculation:** Measures the displacement of objects over different frames.
 
+Dependencies
+Python 3.x
+OpenCV 4.x
+NumPy
+Install dependencies via pip:
+pip install opencv-python numpy
